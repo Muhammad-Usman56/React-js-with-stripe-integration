@@ -51,7 +51,7 @@ class CheckoutForm extends React.Component {
       
         locale="auto"
         name="usman.live"
-        stripeKey="pk_test_51HH33gHFwY11NnvtJGYQ25ovR4jgfPc89Z4SWsHU013No7eeEMKDKxAcEUdkhHoSLH8Y23rJjplDzKDAXd9j9lGu00iL9hLE1t"
+        stripeKey=""
         token={this.onToken}
         zipCode
       />
